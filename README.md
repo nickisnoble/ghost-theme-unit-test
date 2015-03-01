@@ -17,5 +17,9 @@ Assuming you've already gotten Ghost set up locally and it is running your theme
 ## Testing
 Each post or page is usually pretty self explanatory, or has instructions included. Have fun!
 
+## License
+
+This [beerware](https://tldrlegal.com/license/beerware-license). As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer :) - Nick Noble
+
 ## Contributing
 Submit a pull request, or complain loudly on Twitter [@nickisnoble](https://twitter.com/intent/tweet?text=@nickisnoble)!
