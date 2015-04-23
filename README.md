@@ -19,7 +19,7 @@ Each post or page is usually pretty self explanatory, or has instructions includ
 
 ## License
 
-This [beerware](https://tldrlegal.com/license/beerware-license). As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer :) - Nick Noble
+Released under the [WTFPL](http://wikipedia.org/wiki/WTFPL).
 
 ## Contributing
 Submit a pull request, or complain loudly on Twitter [@nickisnoble](https://twitter.com/intent/tweet?text=@nickisnoble)!
